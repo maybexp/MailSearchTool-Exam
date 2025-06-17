@@ -1,4 +1,4 @@
-# Email Search Tool - Exam project
+# Email search tool - Exam project
 **Grade:** A (12 on the Danish grading scale).
 
 A simple tool for searching email addresses in a `.txt` file.  
